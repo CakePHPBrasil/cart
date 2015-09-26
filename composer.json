@@ -1,5 +1,5 @@
 {
-    "name": "cakephp-brasil/Cart",
+    "name": "cakephp-brasil/cart",
     "description": "Cart plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
