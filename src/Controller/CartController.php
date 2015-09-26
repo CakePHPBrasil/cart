@@ -34,8 +34,8 @@ class CartController extends AppController
         debug(Cart::factory()->all());
 
         foreach ($this->simula_banco as $v){
-            echo '<a href="/cart/cart/add/'.$v['id'].'">Adicionar '.$v['title'].'</a> - ';
-            echo '<a href="/cart/cart/delete/'.$v['id'].'">remover '.$v['title'].'</a>';
+            echo '<a href="/carrinho/add/'.$v['id'].'">Adicionar '.$v['title'].'</a> - ';
+            echo '<a href="/carrinho/delete/'.$v['id'].'">remover '.$v['title'].'</a>';
             echo '<hr>';
         }
         exit;
