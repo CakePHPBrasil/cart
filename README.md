@@ -7,7 +7,7 @@ Você pode instalar este plugin na sua aplicação CakePHP 3 usando o [composer]
 O caminho recomentado para instalar é:
 
 ```
-composer require "webdevbr/cart:dev-master"
+composer require "cakephp-brasil/cart:dev-master"
 ```
 
 ## Carregando o plugin
