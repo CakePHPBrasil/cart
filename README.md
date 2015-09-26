@@ -1,11 +1,11 @@
-# Cart plugin for CakePHP
+# Cart plugin para CakePHP 3
 
-## Installation
+## Instalação
 
-You can install this plugin into your CakePHP application using [composer](http://getcomposer.org).
+Você pode instalar este plugin na sua aplicação CakePHP 3 usando o [composer](http://getcomposer.org).
 
-The recommended way to install composer packages is:
+O caminho recomentado para instalar é:
 
 ```
-composer require your-name-here/Cart
+composer require "webdevbr/cart:dev-master"
 ```
