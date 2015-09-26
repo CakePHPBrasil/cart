@@ -9,3 +9,11 @@ O caminho recomentado para instalar é:
 ```
 composer require "webdevbr/cart:dev-master"
 ```
+
+## Carregando o plugin
+
+Adicione esta linha no fim do seu arquivo:
+
+```
+Plugin::load('Cart', ['routes'=>true]);
+```
